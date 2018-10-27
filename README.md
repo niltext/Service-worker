@@ -1,4 +1,4 @@
-# 使用Service Worker提升Web应用体验
+## 使用Service Worker提升Web应用体验
     Service Worker能做的事情很多，通过在其生命周期内自定义响应过程可以做到：
     1.资源缓存控制
     2.实现离线页面
